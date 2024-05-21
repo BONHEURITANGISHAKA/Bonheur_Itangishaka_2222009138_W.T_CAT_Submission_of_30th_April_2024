@@ -1,0 +1,47 @@
+Project Structure of My tourist connect website
+
+1. Database Structure:
+    - Tourist Table:Contains information about tourists such as name, contact details etc.
+    - Place Table:Stores details about various tourist destinations like name, location,  etc.
+    - Activity Table:Contains information about activities available at each destination.
+    - Application Table: Stores data related to the application usage, such as Application id etc.
+    - database username is : Bonheur Itangishaka AND Password of 1234
+
+2. Website Structure:
+    - Homepage: Provides an overview of the website and options for tourists to explore.
+    - Tourist Page: Allows tourists to register, login, and manage their profile.
+    - Place Page: Displays a list of destinations and allows tourists to select a place they want to visit.
+    - Activity Page:Shows activities available at the selected destination.
+    - Application Page:Manages application settings and preferences.
+
+3. Functionality:
+    - Tourist Registration/Login:
+        - Tourists can register by providing necessary details like name, email, and password.
+        - Existing users can log in using their credentials.
+    - Profile Management:
+        - Tourists can update their profile information, including preferences and contact details.
+    - Place Selection:
+        - Tourists can browse through the list of destinations available on the website.
+        - They can select a place they want to visit, which will lead them to the activity page.
+    - Activity Exploration:
+        - At the activity page, tourists can explore various activities available at the selected destination.
+        - They can view details about each activity, such as description, timings, and pricing.
+    - Application Usage Tracking:
+        - The application table records user interactions, preferences, and other relevant data to improve user experience and provide personalized recommendations.
+
+4. Usage:
+    - Registration/Login:
+        - New users need to register on the website by providing their details.
+        - Existing users can log in using their registered email and password.
+    - Profile Management:
+        - After logging in, tourists can update their profile information by navigating to the profile page.
+    - Place Selection:
+        - On the place page, tourists can browse through the list of destinations and select the one they want to visit.
+    - Activity Exploration:
+        - After selecting a place, tourists will be directed to the activity page, where they can explore various activities available at the destination.
+    - Application Usage:
+        - The application automatically tracks user interactions and preferences to enhance the user experience.
+
+Conclusion:
+
+This project aims to connect tourists with their desired destinations by providing a user-friendly website interface. Through proper registration, profile management, and browsing functionalities, tourists can easily explore and select the places they want to visit, along with the activities available at each destination. Additionally, the application table ensures that user interactions are tracked to improve the overall application experience.
